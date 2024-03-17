@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: 16766ae50ca6f4db0bd5baf5c8b573c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3193199593222581186
+    second: JellyMonster_Blue1_0
+  - first:
+      213: 9172602798909868247
+    second: JellyMonster_Blue1_1
+  - first:
+      213: 5111172596880322431
+    second: JellyMonster_Blue1_2
+  - first:
+      213: 4442459619000249572
+    second: JellyMonster_Blue1_3
+  - first:
+      213: -1886171845593935208
+    second: JellyMonster_Blue1_4
+  - first:
+      213: -2294773653509275201
+    second: JellyMonster_Blue1_5
+  - first:
+      213: 3341246170471582776
+    second: JellyMonster_Blue1_6
+  - first:
+      213: 4691394170074634051
+    second: JellyMonster_Blue1_7
+  - first:
+      213: 2941906345874654170
+    second: JellyMonster_Blue1_8
+  - first:
+      213: -7487704208249508666
+    second: JellyMonster_Blue1_9
+  - first:
+      213: -6156073660653002697
+    second: JellyMonster_Blue1_10
+  - first:
+      213: -2169422817980336171
+    second: JellyMonster_Blue1_11
+  - first:
+      213: -3641486406334547684
+    second: JellyMonster_Blue1_12
+  - first:
+      213: 7628383892019509101
+    second: JellyMonster_Blue1_13
+  - first:
+      213: 1612659215768755550
+    second: JellyMonster_Blue1_14
+  - first:
+      213: -6529582848095942748
+    second: JellyMonster_Blue1_15
+  - first:
+      213: -5733777025316061314
+    second: JellyMonster_Blue1_16
+  - first:
+      213: -4082583748034671842
+    second: JellyMonster_Blue1_17
+  - first:
+      213: -7191670632547056483
+    second: JellyMonster_Blue1_18
+  - first:
+      213: 8053481835175209044
+    second: JellyMonster_Blue1_19
+  - first:
+      213: 4312872654538645988
+    second: JellyMonster_Blue1_20
+  - first:
+      213: 4599074784143760692
+    second: JellyMonster_Blue1_21
+  - first:
+      213: -8967708776219698734
+    second: JellyMonster_Blue1_22
+  - first:
+      213: 1662064951403149732
+    second: JellyMonster_Blue1_23
+  - first:
+      213: -3629023573369379446
+    second: JellyMonster_Blue1_24
+  - first:
+      213: -4476325876649073266
+    second: JellyMonster_Blue1_25
+  - first:
+      213: 3254580147870511053
+    second: JellyMonster_Blue1_26
+  - first:
+      213: 6912126491758236724
+    second: JellyMonster_Blue1_27
+  - first:
+      213: -5775967786766033238
+    second: JellyMonster_Blue1_28
+  - first:
+      213: 8326375163862212652
+    second: JellyMonster_Blue1_29
+  - first:
+      213: -5492358769671963391
+    second: JellyMonster_Blue1_30
+  - first:
+      213: 628049288651962757
+    second: JellyMonster_Blue1_31
+  - first:
+      213: 24429222152938540
+    second: JellyMonster_Blue1_32
+  - first:
+      213: 6540293369385993463
+    second: JellyMonster_Blue1_33
+  - first:
+      213: -3805540569430003690
+    second: JellyMonster_Blue1_34
+  - first:
+      213: -5740306005852223853
+    second: JellyMonster_Blue1_35
+  - first:
+      213: 6452764746498724089
+    second: JellyMonster_Blue1_36
+  - first:
+      213: -6357465926231667530
+    second: JellyMonster_Blue1_37
+  - first:
+      213: 6514784902099955512
+    second: JellyMonster_Blue1_38
+  - first:
+      213: -5591476769618898255
+    second: JellyMonster_Blue1_39
+  - first:
+      213: 8071990251402954382
+    second: JellyMonster_Blue1_40
+  - first:
+      213: -6994178475492226703
+    second: JellyMonster_Blue1_41
+  - first:
+      213: 2419009503576342799
+    second: JellyMonster_Blue1_42
+  - first:
+      213: 6370701891766520926
+    second: JellyMonster_Blue1_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 744
+        width: 312
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb24fa9c16805c20800000000000000
+      internalID: 3193199593222581186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 747
+        width: 299
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c6c6a5a1ab4f70800000000000000
+      internalID: 9172602798909868247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 744
+        width: 299
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f23ce85688ee640800000000000000
+      internalID: 5111172596880322431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_3
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 744
+        width: 299
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece68f7c79c6ad30800000000000000
+      internalID: 4442459619000249572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_4
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 744
+        width: 298
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d70623b8f2d5e0800000000000000
+      internalID: -1886171845593935208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 396
+        width: 298
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb187a635835720e0800000000000000
+      internalID: -2294773653509275201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 400
+        width: 298
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc71a70bd7e5e20800000000000000
+      internalID: 3341246170471582776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 396
+        width: 299
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34713a0442e2b1140800000000000000
+      internalID: 4691394170074634051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_8
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 396
+        width: 298
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad383541c30c3d820800000000000000
+      internalID: 2941906345874654170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_9
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 396
+        width: 298
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2714b1b4561890800000000000000
+      internalID: -7487704208249508666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 154
+        width: 315
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a3a53f9b319aa0800000000000000
+      internalID: -6156073660653002697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 154
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7b7aee079a4e1e0800000000000000
+      internalID: -2169422817980336171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_12
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 182
+        width: 264
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f3082867d67dc0800000000000000
+      internalID: -3641486406334547684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_13
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 183
+        width: 280
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67722e9bb67dd960800000000000000
+      internalID: 7628383892019509101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_14
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 173
+        width: 275
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d18a33301516610800000000000000
+      internalID: 1612659215768755550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 35
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a702cfaef24265a0800000000000000
+      internalID: -6529582848095942748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 134
+        width: 196
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f7db0ac288d60b0800000000000000
+      internalID: -5733777025316061314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 136
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4c9c26bfb757c0800000000000000
+      internalID: -4082583748034671842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 89
+        width: 183
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948c6da9ad023c90800000000000000
+      internalID: -7191670632547056483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_19
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 99
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458eda65f07b3cf60800000000000000
+      internalID: 8053481835175209044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 85
+        width: 193
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a54724d66adb30800000000000000
+      internalID: 4312872654538645988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 84
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d5854362233df30800000000000000
+      internalID: 4599074784143760692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_22
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 83
+        width: 184
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99548816c4c8380800000000000000
+      internalID: -8967708776219698734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_23
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 84
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9f20e6447d01710800000000000000
+      internalID: 1662064951403149732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 88
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85acc3994e13adc0800000000000000
+      internalID: -3629023573369379446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 54
+        width: 116
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85617fe455e0e1c0800000000000000
+      internalID: -4476325876649073266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 57
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2cd6a6679a2d20800000000000000
+      internalID: 3254580147870511053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_27
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 63
+        width: 88
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43411d71c6eccef50800000000000000
+      internalID: 6912126491758236724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_28
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 50
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae16bb76e3a7dfa0800000000000000
+      internalID: -5775967786766033238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2064a4b81a3d8370800000000000000
+      internalID: 8326375163862212652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d73ba7cc837c3b0800000000000000
+      internalID: -5492358769671963391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589798f108747b800800000000000000
+      internalID: 628049288651962757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24a0948f3ac65000800000000000000
+      internalID: 24429222152938540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44811ea2ac3ca50800000000000000
+      internalID: 6540293369385993463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61079c4c301003bc0800000000000000
+      internalID: -3805540569430003690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960323e9165650b0800000000000000
+      internalID: -5740306005852223853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f058364953dc8950800000000000000
+      internalID: 6452764746498724089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bccf436c6eb5c7a0800000000000000
+      internalID: -6357465926231667530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83feeb50a5a296a50800000000000000
+      internalID: 6514784902099955512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25401c0851762b0800000000000000
+      internalID: -5591476769618898255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860a4dcd58750070800000000000000
+      internalID: 8071990251402954382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1794a98bbbfafee90800000000000000
+      internalID: -6994178475492226703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0146f8b35c029120800000000000000
+      internalID: 2419009503576342799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JellyMonster_Blue1_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c07acfd97496850800000000000000
+      internalID: 6370701891766520926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
