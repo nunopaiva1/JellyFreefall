@@ -6,6 +6,8 @@ using GooglePlayGames.BasicApi;
 
 public class PlayGames : MonoBehaviour
 {
+    /*
+
     //mpublic int playerScore;
     //string leaderboardID = "CgkIhNu_7M8UEAIQAA";
     string achievementID = "";
@@ -86,5 +88,6 @@ public class PlayGames : MonoBehaviour
         {
             Social.ReportProgress(achievementID, 100f, success => { });
         }
-    }
+    } 
+    */
 }

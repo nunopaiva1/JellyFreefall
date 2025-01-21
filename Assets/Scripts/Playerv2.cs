@@ -26,6 +26,8 @@ public class Playerv2 : MonoBehaviour
 
     public Button btn_ulti;
 
+    private bool canUlt = false;
+
     public ParticleSystem blood, tranquility, boom;
 
     public int score = 0;
@@ -141,6 +143,11 @@ public class Playerv2 : MonoBehaviour
         if (Input.GetKey(KeyCode.A) || left == true)
         {
             rb.AddForce(new Vector2(-PlayerPrefs.GetFloat("playerSensitivity"), 0));
+            //transform.position += Vector3.left * SceneManagement.heroSpeed * Time.deltaTime;
+        }
+        if (Input.GetKey(KeyCode.Space) && canUlt )
+        {
+            ultimate();
             //transform.position += Vector3.left * SceneManagement.heroSpeed * Time.deltaTime;
         }
 
@@ -283,6 +290,7 @@ public class Playerv2 : MonoBehaviour
                     else
                     {
                         btn_ulti.enabled = true;
+                        canUlt = true;
                         //btn_ulti.GetComponentInChildren<Text>().text = "100%";
                         //btn_ulti.GetComponent<Image>().color = Color.cyan;
                         tranquility.gameObject.SetActive(true);
@@ -308,6 +316,7 @@ public class Playerv2 : MonoBehaviour
                     else
                     {
                         btn_ulti.enabled = true;
+                        canUlt = true;
                         //btn_ulti.GetComponentInChildren<Text>().text = "100%";
                         //btn_ulti.GetComponent<Image>().color = Color.cyan;
                         tranquility.gameObject.SetActive(true);
@@ -410,6 +419,7 @@ public class Playerv2 : MonoBehaviour
                     else
                     {
                         btn_ulti.enabled = true;
+                        canUlt = true;
                         //btn_ulti.GetComponentInChildren<Text>().text = "100%";
                         //btn_ulti.GetComponent<Image>().color = Color.cyan;
                         tranquility.gameObject.SetActive(true);
@@ -435,6 +445,7 @@ public class Playerv2 : MonoBehaviour
                     else
                     {
                         btn_ulti.enabled = true;
+                        canUlt = true;
                         //btn_ulti.GetComponentInChildren<Text>().text = "100%";
                         //btn_ulti.GetComponent<Image>().color = Color.cyan;
                         tranquility.gameObject.SetActive(true);
@@ -532,7 +543,7 @@ public class Playerv2 : MonoBehaviour
 
             if (adsCount >= 4)
             { 
-                AdsManager.ShowInterstitialAd();
+                //AdsManager.ShowInterstitialAd();
                 adsCount = 0;
             }
 
@@ -557,7 +568,7 @@ public class Playerv2 : MonoBehaviour
 
                 //playerHighScore = score;
 
-                PlayGames.AddScoreToLeaderboard();
+                //PlayGames.AddScoreToLeaderboard();
 
                 starParticles.gameObject.SetActive(true);
                 star.gameObject.SetActive(true);
@@ -608,6 +619,7 @@ public class Playerv2 : MonoBehaviour
             else
             {
                 btn_ulti.enabled = true;
+                canUlt = true;
                 //btn_ulti.GetComponentInChildren<Text>().text = "100%";
                 //btn_ulti.GetComponent<Image>().color = Color.cyan;
                 tranquility.gameObject.SetActive(true);
@@ -723,6 +735,7 @@ public class Playerv2 : MonoBehaviour
     {
         StartCoroutine(activateUltimate());
         btn_ulti.enabled = false;
+        canUlt = false;
         //btn_ulti.GetComponentInChildren<Text>().text = "0%";
         percent = 0;
         ultiCount.GetComponent<Image>().fillAmount = percent / 100;

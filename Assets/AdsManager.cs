@@ -6,6 +6,7 @@ using UnityEngine.Advertisements;
 
 public class AdsManager : MonoBehaviour
 {
+    /*
 
 #if UNITY_IOS
     private string gameId = "4212956";
@@ -49,5 +50,7 @@ public class AdsManager : MonoBehaviour
         Advertisement.Banner.SetPosition(BannerPosition.BOTTOM_CENTER);
         Advertisement.Banner.Show("Banner_Android");
     }
+
+    */
 
 }
